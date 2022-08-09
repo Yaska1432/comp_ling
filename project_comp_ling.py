@@ -4,7 +4,6 @@ import collections
 from collections import Counter
 from nltk import pos_tag
 
-
 #FOR MEN
 fileM1 = open('/Users/yana/Documents/OneDrive/Studies/Old/КЛ/Project/MEN_COUNTER.csv', 'w')
 text = []
